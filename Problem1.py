@@ -1,3 +1,5 @@
+# find the two entries that sum to 2020 and then multiply those two numbers together.
+
 def problem_1(list_input1):
     print("Solving Problem 1")
     print(f"input size is {len(list_input1)}")
