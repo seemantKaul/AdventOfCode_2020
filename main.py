@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from turtle import listen
 
-from Problem1 import problem_1
+from Problem1 import problem_1_part1
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
