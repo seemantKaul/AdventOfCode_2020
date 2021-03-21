@@ -1,4 +1,5 @@
 # find the two entries that sum to 2020 and then multiply those two numbers together.
+# what is the product of the three entries that sum to 2020?
 
 def problem_1_part1(list_input1):
     print("Solving Problem 1 part 1")
